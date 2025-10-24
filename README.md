@@ -2,6 +2,10 @@
 
 A web application that analyzes text sentiment using AI and stores analysis history in browser local storage.
 
+## 🚀 GitHub Repository
+
+**Repository:** `https://github.com/Ashwinjauhary/AI-Sentiment-Analyzer`
+
 ## Features
 
 - **Real-time Sentiment Analysis**: Uses TextBlob to determine if text is positive, negative, or neutral
@@ -62,6 +66,18 @@ AI-Sentiment-App/
 
 6. **Open in browser**:
    Navigate to `http://127.0.0.1:5000/`
+
+## 🚀 GitHub Setup
+
+To push this project to GitHub:
+
+1. **Create a new repository** on GitHub named `AI-Sentiment-Analyzer`
+2. **Run these commands** in the project directory:
+   ```bash
+   git remote add origin https://github.com/Ashwinjauhary/AI-Sentiment-Analyzer.git
+   git branch -M main
+   git push -u origin main
+   ```
 
 ## Usage
 
