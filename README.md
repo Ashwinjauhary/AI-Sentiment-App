@@ -4,7 +4,7 @@ A web application that analyzes text sentiment using AI and stores analysis hist
 
 ## 🚀 GitHub Repository
 
-**Repository:** `https://github.com/Ashwinjauhary/AI-Sentiment-Analyzer`
+**Repository:** `https://github.com/Ashwinjauhary/AI-Sentiment-App`
 
 ## Features
 
@@ -71,10 +71,10 @@ AI-Sentiment-App/
 
 To push this project to GitHub:
 
-1. **Create a new repository** on GitHub named `AI-Sentiment-Analyzer`
+1. **Create a new repository** on GitHub named `AI-Sentiment-App`
 2. **Run these commands** in the project directory:
    ```bash
-   git remote add origin https://github.com/Ashwinjauhary/AI-Sentiment-Analyzer.git
+   git remote add origin https://github.com/Ashwinjauhary/AI-Sentiment-App.git
    git branch -M main
    git push -u origin main
    ```

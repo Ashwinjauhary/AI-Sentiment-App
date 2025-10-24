@@ -1,7 +1,7 @@
 # Commands to run after creating GitHub repository:
 
 # 1. Add GitHub as remote origin (replace with your actual repo URL)
-git remote add origin https://github.com/Ashwinjauhary/AI-Sentiment-Analyzer.git
+git remote add origin https://github.com/Ashwinjauhary/AI-Sentiment-App.git
 
 # 2. Push to GitHub
 git branch -M main
